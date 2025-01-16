@@ -20,7 +20,7 @@ Ce programme est une application Python hors ligne pour la gestion des tournois 
 
 Lancez la console, placez-vous dans le dossier de votre choix et clonez le dépôt :
 
-    git clone https://github.com/mouquettom/OC_P4_TournoiEchecs.git
+    git clone https://github.com/mouquettom/OpenClassrooms_P4_POO_Club_Echecs.git
 
 Allez dans le dossier OPC_P4_Tournoi_Echecs, puis créez un nouvel environnement virtuel :
 
